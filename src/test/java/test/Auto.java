@@ -49,6 +49,8 @@ public class Auto {
 			
 		}
 		
+		return "Las piezas no son originales";
+		
 	}
 	
 }
